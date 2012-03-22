@@ -108,7 +108,7 @@ require("funciones/Funciones.php");
 		<footer>
 			<span id="footer">Creative Commons by @Facemaps </span>	
 		</footer>
-			</div><!--termina div contenedor-->
+			</div><!--termina div contenedor---->
 			
 	</body>
 </html>
